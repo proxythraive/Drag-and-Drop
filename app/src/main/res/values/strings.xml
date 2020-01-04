@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sample Project</string>
+
+    <string name="tab_one_name">Micro</string>
+    <string name="tab_two_name">Sedan</string>
+    <string name="tab_three_name">SUV</string>
+
+    <string name="customer">Customer</string>
+    <string name="seller">Seller</string>
+
+    <string name="cust_name">Name: Steven Davis</string>
+    <string name="cust_dob">Dob: 12/12/1999</string>
+    <string name="cust_email">Email: xyz@gmail.com</string>
+    <string name="cust_phone">Phone: 123 456 7890</string>
+
+    <string name="seller_name">Name: Bhonoff Dealership</string>
+    <string name="seller_email">Email: xyz@gmail.com</string>
+    <string name="seller_phone">Phone: 123 456 7890</string>
+
+    <string name="search_hint">Enter Car Name / Cost</string>
+
+</resources>
